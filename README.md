@@ -3,11 +3,11 @@
 Batch print PDF files automatically with scheduling and ease.
 
 ---
-<img width="1918" height="1022" alt="Screenshot 2026-04-01 203720" src="https://github.com/user-attachments/assets/f7b832c8-8180-42cd-b393-7e9fb78f9730" />
+<img width="1918" height="1022" alt="Screens![App Screenshot](https://via.placeholder.com/800x400?text=Your+App+Screenshot)hot 2026-04-01 203720" src="https://github.com/user-attachments/assets/f7b832c8-8180-42cd-b393-7e9fb78f9730" />
 
 ## 📸 Preview
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Your+App+Screenshot)
+
 
 ---
 
